@@ -1,0 +1,11 @@
+uuid: 6519532f-6ff0-4602-9196-4c3afa31222e
+langcode: en
+status: true
+dependencies:
+  module:
+    - bulk_update_fields
+id: bulk_update_fields_on_solr_cache
+label: 'Bulk Update Solr Cache Fields'
+type: solr_cache
+plugin: bulk_update_fields_action_base
+configuration: {  }

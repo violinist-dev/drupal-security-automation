@@ -1,0 +1,11 @@
+uuid: d3dbb7b9-d4a6-46a5-8970-e9efef82af9d
+langcode: en
+status: true
+dependencies:
+  module:
+    - bulk_update_fields
+id: bulk_update_fields_on_workspace
+label: 'Bulk Update Workspace Fields'
+type: workspace
+plugin: bulk_update_fields_action_base
+configuration: {  }

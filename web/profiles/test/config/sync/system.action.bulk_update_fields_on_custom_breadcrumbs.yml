@@ -1,0 +1,11 @@
+uuid: 57e56f88-410e-48bf-ba68-028f9c528e38
+langcode: en
+status: true
+dependencies:
+  module:
+    - bulk_update_fields
+id: bulk_update_fields_on_custom_breadcrumbs
+label: 'Bulk Update Custom breadcrumbs Fields'
+type: custom_breadcrumbs
+plugin: bulk_update_fields_action_base
+configuration: {  }

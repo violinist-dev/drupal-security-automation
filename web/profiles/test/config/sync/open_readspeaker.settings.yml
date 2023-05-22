@@ -1,0 +1,4 @@
+_core:
+  default_config_hash: kPuX2eDHp9k6fq3Ko2KQBOg1L80qg1Ztds6s-W8oTdw
+open_readspeaker_url: '//cdn-[open-readspeaker:cdn].readspeaker.com/script/[open-readspeaker:account-id]/webReader/webReader.js?pids=wr'
+open_readspeaker_cdn_region: eu

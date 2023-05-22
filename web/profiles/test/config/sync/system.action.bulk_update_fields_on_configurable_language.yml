@@ -1,0 +1,11 @@
+uuid: 65489d3f-b539-4a51-91f8-bf6f78781e2b
+langcode: en
+status: true
+dependencies:
+  module:
+    - bulk_update_fields
+id: bulk_update_fields_on_configurable_language
+label: 'Bulk Update Language Fields'
+type: configurable_language
+plugin: bulk_update_fields_action_base
+configuration: {  }

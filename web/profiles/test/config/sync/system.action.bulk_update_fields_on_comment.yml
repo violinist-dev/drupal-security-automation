@@ -1,0 +1,11 @@
+uuid: 5d6151f2-722f-4622-94da-f437a4a1b7fa
+langcode: en
+status: true
+dependencies:
+  module:
+    - bulk_update_fields
+id: bulk_update_fields_on_comment
+label: 'Bulk Update Comment Fields'
+type: comment
+plugin: bulk_update_fields_action_base
+configuration: {  }

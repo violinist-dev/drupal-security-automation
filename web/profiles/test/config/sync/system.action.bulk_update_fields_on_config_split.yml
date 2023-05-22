@@ -1,0 +1,11 @@
+uuid: 746c1136-ff44-48e9-bd96-bebeab40515e
+langcode: en
+status: true
+dependencies:
+  module:
+    - bulk_update_fields
+id: bulk_update_fields_on_config_split
+label: 'Bulk Update Configuration Split setting Fields'
+type: config_split
+plugin: bulk_update_fields_action_base
+configuration: {  }

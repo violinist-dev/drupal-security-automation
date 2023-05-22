@@ -1,0 +1,11 @@
+uuid: 4239e61d-0ef3-4103-8f33-00c33122feba
+langcode: en
+status: true
+dependencies:
+  module:
+    - bulk_update_fields
+id: bulk_update_fields_on_user_role
+label: 'Bulk Update Role Fields'
+type: user_role
+plugin: bulk_update_fields_action_base
+configuration: {  }

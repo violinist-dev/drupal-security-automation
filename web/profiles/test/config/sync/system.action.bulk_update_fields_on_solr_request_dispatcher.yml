@@ -1,0 +1,11 @@
+uuid: 6e2a2133-0636-44fa-905f-e50692020c36
+langcode: en
+status: true
+dependencies:
+  module:
+    - bulk_update_fields
+id: bulk_update_fields_on_solr_request_dispatcher
+label: 'Bulk Update Solr Request Dispatcher Fields'
+type: solr_request_dispatcher
+plugin: bulk_update_fields_action_base
+configuration: {  }
