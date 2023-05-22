@@ -1,5 +1,12 @@
 
 
+## [1.1.1](https://github.com/erikdekamps/drupal-security-automation/compare/1.1.0...1.1.1) (2023-05-22)
+
+
+### Bug Fixes
+
+* typo in package json github url ([48dcebd](https://github.com/erikdekamps/drupal-security-automation/commits/48dcebdf766af3fcfa4c0c4194849712a10c8de4))
+
 ## 1.1.0 (2023-05-22)
 
 
