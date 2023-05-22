@@ -96,6 +96,10 @@
         "  * Remove the plugin that prints this message:",
         "      composer remove drupal/core-project-message"
       ]
+    },
+    "violinist": {
+      "one_pull_request_per_package": 1,
+      "run_scripts": 0
     }
   }
 }
