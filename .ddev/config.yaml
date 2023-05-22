@@ -17,20 +17,4 @@ use_dns_when_possible: true
 composer_version: ""
 web_environment: []
 nodejs_version: "16"
-hooks:
-  post-start:
-    - composer: install
-  post-composer:
-    - exec-host: ddev rebuild
-    - exec: drush uli
-    - exec-host: ddev launch /user
-  post-import-db:
-    - exec-host: ddev rebuild
-    - exec: drush dcdi
-    - exec: "drush uli"
-    - exec-host: ddev launch /user
-  # take a db snapshot when stopping the site to ensure no accidental data loss
-  # to restore a snapshot use 'ddev snapshot restore' and follow the prompts
-  pre-stop:
-    - exec-host: "ddev snapshot"
 
