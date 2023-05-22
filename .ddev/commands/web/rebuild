@@ -1,0 +1,13 @@
+#!/bin/bash
+
+## Description: Runs drush commands to rebuild cache, import config, update database and reindex search
+## Usage: rebuild
+## Example: "ddev rebuild"
+## ExecRaw: true
+## HostWorkingDir: true
+
+drush cr 
+drush cim -y
+drush updb -y
+drush cr
+drush sapi-i
