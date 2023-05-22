@@ -1,5 +1,13 @@
 
 
+## [1.3.0](https://github.com/erikdekamps/drupal-security-automation/compare/1.2.0...1.3.0) (2023-05-22)
+
+
+### Features
+
+* add test profile + config ([a163677](https://github.com/erikdekamps/drupal-security-automation/commits/a1636779dbf8d007e184b721042fe164c35d2d99))
+* introduce config directory ([5a310b4](https://github.com/erikdekamps/drupal-security-automation/commits/5a310b491495dec48b7728daeb9e149abb6b8641))
+
 ## [1.2.0](https://github.com/erikdekamps/drupal-security-automation/compare/1.1.2...1.2.0) (2023-05-22)
 
 
