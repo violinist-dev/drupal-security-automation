@@ -1,5 +1,7 @@
 
 
+## [1.1.2](https://github.com/erikdekamps/drupal-security-automation/compare/1.1.1...1.1.2) (2023-05-22)
+
 ## [1.1.1](https://github.com/erikdekamps/drupal-security-automation/compare/1.1.0...1.1.1) (2023-05-22)
 
 

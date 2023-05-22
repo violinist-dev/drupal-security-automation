@@ -1,6 +1,6 @@
 {
   "name": "drupal-security-automation",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Drupal security automation",
   "main": "index.js",
   "scripts": {
