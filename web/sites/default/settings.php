@@ -21,3 +21,4 @@ if (file_exists($app_root . '/' . $site_path . '/settings.local.php')) {
   include $app_root . '/' . $site_path . '/settings.local.php';
 }
 $settings['config_sync_directory'] = 'profiles/test/config/sync';
+$settings['default_content_deploy_content_directory'] = '../content';
