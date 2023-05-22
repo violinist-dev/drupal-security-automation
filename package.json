@@ -71,8 +71,8 @@
               "hidden": true
             }
           ],
-          "commitUrlFormat": "https://github.com/erikdekamps/drupal-automation-security/commits/{{hash}}",
-          "compareUrlFormat": "https://github.com/erikdekamps/drupal-automation-security/compare/{{previousTag}}...{{currentTag}}"
+          "commitUrlFormat": "https://github.com/erikdekamps/drupal-security-automation/commits/{{hash}}",
+          "compareUrlFormat": "https://github.com/erikdekamps/drupal-security-automation/compare/{{previousTag}}...{{currentTag}}"
         }
       }
     }
