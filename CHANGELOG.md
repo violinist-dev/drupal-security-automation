@@ -1,5 +1,14 @@
 
 
+## [1.2.0](https://github.com/erikdekamps/drupal-security-automation/compare/1.1.2...1.2.0) (2023-05-22)
+
+
+### Features
+
+* add composer packages ([8fa85d6](https://github.com/erikdekamps/drupal-security-automation/commits/8fa85d670252c558dfb014e884d3b99110ab8cb5))
+* add ddev rebuild command ([77a0852](https://github.com/erikdekamps/drupal-security-automation/commits/77a0852eee709a8aa132ae27af7ba4977caa228d))
+* require dev drupal core ([ece0484](https://github.com/erikdekamps/drupal-security-automation/commits/ece0484084bdbed7ac4e3a8783b10709961453a5))
+
 ## [1.1.2](https://github.com/erikdekamps/drupal-security-automation/compare/1.1.1...1.1.2) (2023-05-22)
 
 ## [1.1.1](https://github.com/erikdekamps/drupal-security-automation/compare/1.1.0...1.1.1) (2023-05-22)
