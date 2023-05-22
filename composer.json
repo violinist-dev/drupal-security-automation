@@ -165,7 +165,7 @@
     "drupal/revision_log_default": "^1.2",
     "drupal/rules": "^3.0@alpha",
     "drupal/scheduled_transitions": "^2.3",
-    "drupal/scheduler": "1.4",
+    "drupal/scheduler": "1.5.0",
     "drupal/scheduler_content_moderation_integration": "1.4",
     "drupal/search_api": "^1.27",
     "drupal/search_api_exclude_entity": "^2.0",
