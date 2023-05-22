@@ -1,0 +1,211 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/drupal-security-automation.ddev.site\/node\/2?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal-security-automation.ddev.site\/rest\/type\/node\/article"
+        },
+        "http:\/\/drupal-security-automation.ddev.site\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "href": "http:\/\/drupal-security-automation.ddev.site\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal-security-automation.ddev.site\/rest\/relation\/node\/article\/uid": [
+            {
+                "href": "http:\/\/drupal-security-automation.ddev.site\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal-security-automation.ddev.site\/rest\/relation\/node\/article\/field_image": [
+            {
+                "href": "http:\/\/drupal-security-automation.ddev.site\/sites\/default\/files\/2023-05\/2.jpg",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal-security-automation.ddev.site\/rest\/relation\/node\/article\/field_tags": [
+            {
+                "href": "http:\/\/drupal-security-automation.ddev.site\/taxonomy\/term\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 2
+        }
+    ],
+    "uuid": [
+        {
+            "value": "c77f2d09-76b6-4981-bd27-d5fb007adabb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-22T12:58:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal-security-automation.ddev.site\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/drupal-security-automation.ddev.site\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal-security-automation.ddev.site\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "96a9902d-019a-4206-86f0-67f243fbeb64"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal-security-automation.ddev.site\/rest\/relation\/node\/article\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/drupal-security-automation.ddev.site\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal-security-automation.ddev.site\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "96a9902d-019a-4206-86f0-67f243fbeb64"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal-security-automation.ddev.site\/rest\/relation\/node\/article\/field_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/drupal-security-automation.ddev.site\/sites\/default\/files\/2023-05\/2.jpg"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal-security-automation.ddev.site\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5241d803-9a12-4a53-beae-fd65e9b81d2d"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal-security-automation.ddev.site\/rest\/relation\/node\/article\/field_tags": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/drupal-security-automation.ddev.site\/taxonomy\/term\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal-security-automation.ddev.site\/rest\/type\/taxonomy_term\/tags"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "0e749080-8192-4b56-ba7b-ae632daa0247"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Some article",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-22T12:58:24+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-22T12:58:50+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Some article - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi risus odio, condimentum non bibendum sit amet, rhoncus eu magna. Nunc scelerisque efficitur turpis pellentesque hendrerit. Pellentesque hendrerit dictum tristique. Integer maximus dolor at eros elementum, eu consequat mi tristique. Donec viverra nibh magna, ac posuere ante sollicitudin vel. Aenean imperdiet aliquet mauris. Curabitur sit amet tincidunt magna. Proin quis viverra magna. Nulla elementum, eros et aliquet tempus, purus nulla lobortis lectus, vel lobortis eros mi ac felis. Praesent tempus luctus dignissim. Curabitur libero magna, vehicula sed ligula pharetra, varius vehicula velit.<\/p>",
+            "format": "basic_html",
+            "processed": "<p>Some article - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi risus odio, condimentum non bibendum sit amet, rhoncus eu magna. Nunc scelerisque efficitur turpis pellentesque hendrerit. Pellentesque hendrerit dictum tristique. Integer maximus dolor at eros elementum, eu consequat mi tristique. Donec viverra nibh magna, ac posuere ante sollicitudin vel. Aenean imperdiet aliquet mauris. Curabitur sit amet tincidunt magna. Proin quis viverra magna. Nulla elementum, eros et aliquet tempus, purus nulla lobortis lectus, vel lobortis eros mi ac felis. Praesent tempus luctus dignissim. Curabitur libero magna, vehicula sed ligula pharetra, varius vehicula velit.<\/p>",
+            "summary": "",
+            "lang": "en"
+        }
+    ],
+    "comment": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1684760330,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0,
+            "lang": "en"
+        }
+    ]
+}

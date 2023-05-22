@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/drupal-security-automation.ddev.site\/sites\/default\/files\/2023-05\/2.jpg"
+        },
+        "type": {
+            "href": "http:\/\/drupal-security-automation.ddev.site\/rest\/type\/file\/file"
+        },
+        "http:\/\/drupal-security-automation.ddev.site\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "http:\/\/drupal-security-automation.ddev.site\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "5241d803-9a12-4a53-beae-fd65e9b81d2d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal-security-automation.ddev.site\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/drupal-security-automation.ddev.site\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal-security-automation.ddev.site\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "96a9902d-019a-4206-86f0-67f243fbeb64"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "2.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-05\/2.jpg",
+            "url": "\/sites\/default\/files\/2023-05\/2.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 617985
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-22T12:58:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-22T12:58:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

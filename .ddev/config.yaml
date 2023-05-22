@@ -26,6 +26,7 @@ hooks:
     - exec-host: ddev launch /user
   post-import-db:
     - exec-host: ddev rebuild
+    - exec: drush dcdi
     - exec: "drush uli"
     - exec-host: ddev launch /user
   # take a db snapshot when stopping the site to ensure no accidental data loss
