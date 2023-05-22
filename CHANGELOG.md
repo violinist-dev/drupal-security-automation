@@ -1,5 +1,17 @@
 
 
+## [1.4.0](https://github.com/erikdekamps/drupal-security-automation/compare/1.3.0...1.4.0) (2023-05-22)
+
+
+### Features
+
+* add default content deploy ([74f69db](https://github.com/erikdekamps/drupal-security-automation/commits/74f69db8e21ab2e4a554e11669fb9b8f73135b84))
+* add default content deploy content directory ([798d4bf](https://github.com/erikdekamps/drupal-security-automation/commits/798d4bfd862ba80e325fb9570b9fea0502589e06))
+* add defautl content files and installation instructions ([9b4ec4c](https://github.com/erikdekamps/drupal-security-automation/commits/9b4ec4cf93a930a26f2dc03431490f27840cbc1d))
+* add hal settings config ([fcb8ff4](https://github.com/erikdekamps/drupal-security-automation/commits/fcb8ff4aa7e2e3a449b3492c2b98c933f68645a1))
+* add missing search api config ([0a4ae62](https://github.com/erikdekamps/drupal-security-automation/commits/0a4ae6210b21f991a6ecf00ca066138430562afb))
+* enable default content deploy module with dependencies ([e25be43](https://github.com/erikdekamps/drupal-security-automation/commits/e25be43df6b96be0068ff2ef6450a95b750d8e99))
+
 ## [1.3.0](https://github.com/erikdekamps/drupal-security-automation/compare/1.2.0...1.3.0) (2023-05-22)
 
 
